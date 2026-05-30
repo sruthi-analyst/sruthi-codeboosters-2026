@@ -1,5 +1,4 @@
-# Day 1 — Student Reference Guide
-## Introduction to Data Engineering + GitHub
+# Day 1 - Introduction to Data Engineering + GitHub
 ### Codeboosters Tech — Data Engineering + GenAI Internship Program
 
 ---
