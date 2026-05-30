@@ -1,5 +1,4 @@
-# Day 2 — Student Reference Guide
-## Database Fundamentals + SQL + Data Visualization
+# Day 2 — Database Fundamentals + SQL + Data Visualization
 ### Codeboosters Tech — Data Engineering + GenAI Internship
 
 ---
