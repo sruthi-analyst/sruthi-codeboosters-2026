@@ -1,5 +1,4 @@
-# Day 4 — Student Reference Guide
-## Big Data + PySpark + Modern Data Architecture
+# Day 4 — Big Data + PySpark + Modern Data Architecture
 ### Codeboosters Tech — Data Engineering + GenAI Internship
 
 ---
