@@ -1,5 +1,4 @@
-# Day 3 — Student Reference Guide
-## ETL Pipelines + Pandas Data Cleaning + APIs
+# Day 3 — ETL Pipelines + Pandas Data Cleaning + APIs
 ### Codeboosters Tech — Data Engineering + GenAI Internship
 
 ---
